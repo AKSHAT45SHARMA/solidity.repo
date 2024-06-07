@@ -41,7 +41,7 @@ This project is a basic implementation of an Ethereum smart contract that create
 
      contract MyToken {
          // public variables here
-         string public tokenName = "Akshat Sharma Token";
+         string public tokenName = "Akshat Sharma";
          string public tokenAbbrv = "AKKI";
          uint256 public totalSupply = 0;
 

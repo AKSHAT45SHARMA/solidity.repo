@@ -20,7 +20,7 @@ This project is a basic implementation of an Ethereum smart contract that create
 
 ## Copy code solidity Contract Code
        
-- Copy the following code and paste it into `solidity_repo.sol`:
+- Copy the following code and paste it into `eth_beg.sol`:
      ```solidity
      // SPDX-License-Identifier: MIT
      pragma solidity 0.8.18;

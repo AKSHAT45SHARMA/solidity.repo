@@ -77,10 +77,15 @@ This project is a basic implementation of an Ethereum smart contract that create
    - Click `Deploy`.
 
 3. **Interact with the Contract**
-   - After deploying, the contract will appear under `Deployed Contracts`.
+     - After deploying, the contract will appear under `Deployed Contracts`.
    - To mint tokens:
      - Input the address and the amount of tokens to mint.
      - Click the `mint` button.
    - To burn tokens:
      - Input the address and the amount of tokens to burn.
      - Click the `burn` button.
+  
+  ## Authors
+- **Akshat Sharma**
+  - GitHub: [AKSHAT45SHARMA](https://github.com/AKSHAT45SHARMA)
+
